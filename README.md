@@ -1,7 +1,7 @@
 # Awesome-Self-Supervised-Learning-in-Medical-Imaging  [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://awesome.re/)
 
 
-This repository is mainly dedicated for listing the recent research advancements in the application of Self-Supervised-Learning in medical images computing field.
+This repository is mainly dedicated for listing the recent research advancements in the application of Self-Supervised-Learning in medical images computing field. Most are borrowed from [awesome-self-supervised-learning-in-medical-imaging](https://github.com/SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging)
 
 ## List of Journals / Conferences (J/C):
 
