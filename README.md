@@ -9,6 +9,7 @@ This repository is mainly dedicated for listing the recent research advancements
 
 - **[IEEE Access](https://ieeeaccess.ieee.org/)**
 - **[IEEE Transaction on Medical Imaging (IEEE-TMI)](https://ieee-tmi.org/)**
+- **[IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**
 - **[IEEE Transaction on Biomedical Engineering (IEEE-TBME)](http://tbme.embs.org/)**
 - **[IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)](http://jbhi.embs.org/)**
 - **[IEEE Transactions on Image Processing (IEEE-TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)**
@@ -50,7 +51,7 @@ This repository is mainly dedicated for listing the recent research advancements
 | Self Pre-training with Masked Autoencoders for Medical Image Analysis |    ArXiv     | MAE/Contrastive |     [Link](https://doi.org/10.3390/diagnostics12081805)      |                              NA                              |
 | Self Pre-training with Masked Autoencoders for Medical Image Classification and Segmentation |    ArXiv     | MAE/Contrastive |     [Link](https://doi.org/10.3390/diagnostics12081805)      |                              NA                              |
 | A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images |    ISBI     | MAE/Contrastive | [Link](https://arxiv.org/abs/2211.14715) | [pytorch](https://github.com/lichen14/TOWER) |
-| PCRLv2 A Unified Visual Information Preservation Framework for Self-supervised Pre-training in Medical Image Analysis |    TPAMI     | MAE | [Link](https://arxiv.org/abs/2301.00772) | [pytorch](https://github.com/RL4M/PCRLv2) |
+| PCRLv2 A Unified Visual Information Preservation Framework for Self-supervised Pre-training in Medical Image Analysis |    IEEE-TPAMI     | MAE | [Link](https://arxiv.org/abs/2301.00772) | [pytorch](https://github.com/RL4M/PCRLv2) |
 
 
 
