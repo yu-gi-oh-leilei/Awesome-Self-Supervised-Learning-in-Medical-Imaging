@@ -50,6 +50,10 @@ This repository is mainly dedicated for listing the recent research advancements
 | Self Pre-training with Masked Autoencoders for Medical Image Analysis |    ArXiv     | MAE/Contrastive |     [Link](https://doi.org/10.3390/diagnostics12081805)      |                              NA                              |
 | Self Pre-training with Masked Autoencoders for Medical Image Classification and Segmentation |    ArXiv     | MAE/Contrastive |     [Link](https://doi.org/10.3390/diagnostics12081805)      |                              NA                              |
 | A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images |    ISBI     | MAE/Contrastive | [Link](https://arxiv.org/abs/2211.14715) | [pytorch](https://github.com/lichen14/TOWER) |
+| PCRLv2 A Unified Visual Information Preservation Framework for Self-supervised Pre-training in Medical Image Analysis |    TPAMI     | MAE | [Link](https://arxiv.org/abs/2301.00772) | [pytorch](https://github.com/RL4M/PCRLv2) |
+
+
+
 
 
 ## 2022
