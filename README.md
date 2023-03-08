@@ -39,7 +39,7 @@ This repository is mainly dedicated for listing the recent research advancements
 - **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
 - **Joint European Conference on Machine Learning and Knowledge Discovery in Databases (JECMLKDD)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
-
+- **International Conference on Medical Imaging with Deep Learning (MIDL)**
 ----------------------------------------
 
 
@@ -52,8 +52,6 @@ This repository is mainly dedicated for listing the recent research advancements
 | Self Pre-training with Masked Autoencoders for Medical Image Classification and Segmentation |    ArXiv     | MAE/Contrastive |     [Link](https://doi.org/10.3390/diagnostics12081805)      |                              NA                              |
 | A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images |    ISBI     | MAE/Contrastive | [Link](https://arxiv.org/abs/2211.14715) | [pytorch](https://github.com/lichen14/TOWER) |
 | PCRLv2 A Unified Visual Information Preservation Framework for Self-supervised Pre-training in Medical Image Analysis |    IEEE-TPAMI     | MAE | [Link](https://arxiv.org/abs/2301.00772) | [pytorch](https://github.com/RL4M/PCRLv2) |
-
-
 
 
 
@@ -74,12 +72,12 @@ This repository is mainly dedicated for listing the recent research advancements
 | ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics |        CVPR        |         Contrastive          | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Taleb_ContIG_Self-Supervised_Multimodal_Contrastive_Learning_for_Medical_Imaging_With_Genetics_CVPR_2022_paper.html) |        [pytorch](https://github.com/HealthML/ContIG)         |
 | Self-Supervised Learning Methods for Label-Efficient Dental Caries Classification |    Diagnostics     |         Contrastive          |     [Link](https://doi.org/10.3390/diagnostics12051237)      |                              NA                              |
 | Self-Supervised Pretraining for 2D Medical Image Segmentation |    ECCV     | Contrastive |     [Link](https://doi.org/10.1007/978-3-031-25082-8_31)      | [pytorch](https://github.com/kaland313/SSL-MedSeg) |
+| CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging |    MIDL     | Contrastive |     [Link](https://arxiv.org/abs/2204.07344)      | [pytorch](https://github.com/JLiangLab/CAiD) |
+| Context-aware Self-supervised Learning for Medical Images Using Graph Neural Network |    ArXiv     | Contrastive |     [Link](https://arxiv.org/abs/2207.02957)      | [pytorch](https://github.com/JLiangLab/CAiD) |
 
 
 
 ## 2021
-
-
 
 |                         Paper title                          | Journal/Conference  |           Category           |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :-----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -133,8 +131,6 @@ This repository is mainly dedicated for listing the recent research advancements
 
 ## 2019
 
-
-
 |                         Paper title                          | Journal/Conference |           Category           |                          Paper link                          |                         Code link                         |
 | :----------------------------------------------------------: | :----------------: | :--------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
 | Self-Supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_60) |                            NA                             |
@@ -147,8 +143,6 @@ This repository is mainly dedicated for listing the recent research advancements
 
 ## 2018
 
-
-
 |                         Paper title                          | Journal/Conference |  Category  |                          Paper link                          | Code link |
 | :----------------------------------------------------------: | :----------------: | :--------: | :----------------------------------------------------------: | :-------: |
 | Exploiting the potential of unlabeled endoscopic video data with self-supervised learning |       IJCARS       | Generative | [Link](https://link.springer.com/article/10.1007/s11548-018-1772-0) |    NA     |
@@ -157,8 +151,6 @@ This repository is mainly dedicated for listing the recent research advancements
 
 
 ## 2017
-
-
 
 |                         Paper title                          | Journal/Conference |  Category   |                          Paper link                          | Code link |
 | :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :-------: |
